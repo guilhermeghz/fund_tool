@@ -19,7 +19,7 @@
 body,
 
 body{
-    background-image: url("fundo.jpg");
+    background-image: url("./fundo.jpg");
     background-size: cover;
 }
 
